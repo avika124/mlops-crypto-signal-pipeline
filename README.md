@@ -1,4 +1,4 @@
-# MLOps Engineering Internship - Technical Assessment 2
+# MLOps Engineering Internship - Technical Assessment 
 
 This repository contains a deterministic batch-style Python pipeline that reads OHLCV data, computes a rolling-mean-based signal from the `close` column, and writes machine-readable metrics and logs.
 
